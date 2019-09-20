@@ -38,13 +38,6 @@ div.feedback {
     margin-left: 160px;
 }
 
-div.results {
-    position: absolute;
-    margin-top: 70px;
-    text-align: center;
-    margin-left: 110px;
-}
-
 button.beginQuiz {
     padding: 18px 45px;
     margin-top: 250px;
